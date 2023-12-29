@@ -6489,7 +6489,7 @@
      * _.has
      * _.now
      *
-     * http://underscorejs.org
+     * https://underscorejs.org
      * (c) 2009-2013 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
      * Underscore may be freely distributed under the MIT license.
      * @license MIT
@@ -10509,7 +10509,7 @@
       ((root = window || {}),
       (factory = function (window) {
         "use strict";
-        var svgNS = "http://www.w3.org/2000/svg",
+        var svgNS = "https://www.w3.org/2000/svg",
           locationHref = "",
           initialDefaultFrame = -999999,
           subframeEnabled = !0,
@@ -15274,7 +15274,7 @@
                       }.bind(this),
                       !1
                     ),
-                    i.setAttributeNS("http://www.w3.org/1999/xlink", "href", r),
+                    i.setAttributeNS("https://www.w3.org/1999/xlink", "href", r),
                     this._elementHelper.append
                       ? this._elementHelper.append(i)
                       : this._elementHelper.appendChild(i);
@@ -17101,7 +17101,7 @@
             return new ISolidElement(t, this.globalData, this);
           }),
           (SVGRenderer.prototype.configAnimation = function (t) {
-            this.svgElement.setAttribute("xmlns", "http://www.w3.org/2000/svg"),
+            this.svgElement.setAttribute("xmlns", "https://www.w3.org/2000/svg"),
               this.renderConfig.viewBoxSize
                 ? this.svgElement.setAttribute(
                     "viewBox",
@@ -19394,7 +19394,7 @@
                   this.globalData.renderConfig.imagePreserveAspectRatio
               ),
               this.innerElem.setAttributeNS(
-                "http://www.w3.org/1999/xlink",
+                "https://www.w3.org/1999/xlink",
                 "href",
                 t
               ),
@@ -19593,7 +19593,7 @@
                         ),
                       (s.textContent = o[t].val),
                       s.setAttributeNS(
-                        "http://www.w3.org/XML/1998/namespace",
+                        "https://www.w3.org/XML/1998/namespace",
                         "xml:space",
                         "preserve"
                       ));
@@ -22050,7 +22050,7 @@
               } else if (
                 ((l.textContent = u[n].val),
                 l.setAttributeNS(
-                  "http://www.w3.org/XML/1998/namespace",
+                  "https://www.w3.org/XML/1998/namespace",
                   "xml:space",
                   "preserve"
                 ),
@@ -22193,7 +22193,7 @@
                 this.imageElem.setAttribute("width", this.assetData.w + "px"),
                 this.imageElem.setAttribute("height", this.assetData.h + "px"),
                 this.imageElem.setAttributeNS(
-                  "http://www.w3.org/1999/xlink",
+                  "https://www.w3.org/1999/xlink",
                   "href",
                   t
                 ),
@@ -30624,7 +30624,7 @@
                     o.indexOf("https://webflow.com") >= 0 &&
                     (o = o.replace(
                       "https://webflow.com",
-                      "http://formdata.webflow.com"
+                      "https://formdata.webflow.com"
                     ));
                 if (
                   ((l = "".concat(o, "/signFile")),

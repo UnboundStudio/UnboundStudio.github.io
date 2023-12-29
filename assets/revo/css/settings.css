@@ -59,14 +59,14 @@
 }
 @font-face {
   font-family: revicons;
-  src: url(http://paul-themes.com/html/skape/assets/revo/fonts/revicons/revicons.eot?5510888);
-  src: url(http://paul-themes.com/html/skape/assets/revo/fonts/revicons/revicons.eot?5510888)
+  src: url(https://paul-themes.com/html/skape/assets/revo/fonts/revicons/revicons.eot?5510888);
+  src: url(https://paul-themes.com/html/skape/assets/revo/fonts/revicons/revicons.eot?5510888)
       format("embedded-opentype"),
-    url(http://paul-themes.com/html/skape/assets/revo/fonts/revicons/revicons.woff?5510888)
+    url(https://paul-themes.com/html/skape/assets/revo/fonts/revicons/revicons.woff?5510888)
       format("woff"),
-    url(http://paul-themes.com/html/skape/assets/revo/fonts/revicons/revicons.ttf?5510888)
+    url(https://paul-themes.com/html/skape/assets/revo/fonts/revicons/revicons.ttf?5510888)
       format("truetype"),
-    url(http://paul-themes.com/html/skape/assets/revo/fonts/revicons/revicons.svg?5510888)
+    url(https://paul-themes.com/html/skape/assets/revo/fonts/revicons/revicons.svg?5510888)
       format("svg");
   font-weight: 400;
   font-style: normal;
@@ -759,16 +759,16 @@ img.tp-slider-alternative-image {
   z-index: 3;
 }
 .tp-dottedoverlay.twoxtwo {
-  background: url(http://paul-themes.com/html/skape/assets/revo/assets/gridtile.png);
+  background: url(https://paul-themes.com/html/skape/assets/revo/assets/gridtile.png);
 }
 .tp-dottedoverlay.twoxtwowhite {
-  background: url(http://paul-themes.com/html/skape/assets/revo/assets/gridtile_white.png);
+  background: url(https://paul-themes.com/html/skape/assets/revo/assets/gridtile_white.png);
 }
 .tp-dottedoverlay.threexthree {
-  background: url(http://paul-themes.com/html/skape/assets/revo/assets/gridtile_3x3.png);
+  background: url(https://paul-themes.com/html/skape/assets/revo/assets/gridtile_3x3.png);
 }
 .tp-dottedoverlay.threexthreewhite {
-  background: url(http://paul-themes.com/html/skape/assets/revo/assets/gridtile_3x3_white.png);
+  background: url(https://paul-themes.com/html/skape/assets/revo/assets/gridtile_3x3_white.png);
 }
 .tp-shadowcover {
   width: 100%;

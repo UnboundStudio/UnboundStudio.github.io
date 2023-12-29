@@ -5029,7 +5029,7 @@
      * _.has
      * _.now
      *
-     * http://underscorejs.org
+     * https://underscorejs.org
      * (c) 2009-2013 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
      * Underscore may be freely distributed under the MIT license.
      * @license MIT
@@ -10937,7 +10937,7 @@
                       u.indexOf("https://webflow.com") >= 0 &&
                       (u = u.replace(
                         "https://webflow.com",
-                        "http://formdata.webflow.com"
+                        "https://formdata.webflow.com"
                       ));
                   if (
                     ((c = "".concat(u, "/signFile")),
@@ -11197,7 +11197,7 @@
                   (p = e.height),
                   "data:image/svg+xml;charset=utf-8," +
                     encodeURI(
-                      '<svg xmlns="http://www.w3.org/2000/svg" width="' +
+                      '<svg xmlns="https://www.w3.org/2000/svg" width="' +
                         d +
                         '" height="' +
                         p +
