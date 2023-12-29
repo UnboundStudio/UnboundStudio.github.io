@@ -15274,7 +15274,11 @@
                       }.bind(this),
                       !1
                     ),
-                    i.setAttributeNS("https://www.w3.org/1999/xlink", "href", r),
+                    i.setAttributeNS(
+                      "https://www.w3.org/1999/xlink",
+                      "href",
+                      r
+                    ),
                     this._elementHelper.append
                       ? this._elementHelper.append(i)
                       : this._elementHelper.appendChild(i);
@@ -17101,7 +17105,10 @@
             return new ISolidElement(t, this.globalData, this);
           }),
           (SVGRenderer.prototype.configAnimation = function (t) {
-            this.svgElement.setAttribute("xmlns", "https://www.w3.org/2000/svg"),
+            this.svgElement.setAttribute(
+              "xmlns",
+              "https://www.w3.org/2000/svg"
+            ),
               this.renderConfig.viewBoxSize
                 ? this.svgElement.setAttribute(
                     "viewBox",
